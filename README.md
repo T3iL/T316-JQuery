@@ -2,7 +2,8 @@
 
 ## -------INFO
 ```
-1. JQuery (https://jquery.com/)
+1. Icons (https://iconify.design/icon-sets/)
+2. JQuery (https://jquery.com/)
 ```
 
 ### --------ZAD
