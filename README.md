@@ -5,7 +5,7 @@
 1. Icons (https://iconify.design/icon-sets/)
 2. JQuery (https://jquery.com/)
 ```
-```
+```javascript
 function fadeIn(el) { // Vanilla JavaScript
   el.style.opacity = 0;
   var last = +new Date();
