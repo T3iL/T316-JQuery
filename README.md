@@ -17,6 +17,7 @@ T31501 - Przygotuj uproszczoną alternatywę dla JQuery udostępniającą uniwer
 
 ### --------Links
 https://github.com/T3iL/T316-JQuery
+https://medium.com/javascript-in-plain-english/why-developers-prefer-vanilla-javascript-over-jquery-e707b249d421
 
 GOOGLE DRIVE: 
 
