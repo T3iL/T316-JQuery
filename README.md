@@ -47,7 +47,8 @@ $(el).fadeIn();
 ```
 T31601 - Przygotuj odpowiedniki funkcji (fadeToggle, slideUp, toggleClass) pochodzące z JQuery w Vanilla Javascript.
 
-T31602 - Przygotuj uproszczoną alternatywę dla JQuery udostępniającą uniwersalny selektor "$" pozwalający na wykonanie nastepującej sekwencji (bez dołączania jquery).
+T31602 - Przygotuj uproszczoną alternatywę dla JQuery udostępniającą uniwersalny selektor "$" 
+         pozwalający na wykonanie nastepującej sekwencji (bez dołączania jquery).
 
     $('#test').style.color = 'red';
     
