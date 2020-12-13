@@ -10,6 +10,17 @@ jQuery is a lightweight, "write less, do more", JavaScript library.
 
 The purpose of jQuery is to make it much easier to use JavaScript on your website.
 
+The jQuery library contains the following features:
+
+-HTML/DOM manipulation
+-CSS manipulation
+-HTML event methods
+-Effects and animations
+-AJAX
+-Utilities
+
+Tip: In addition, jQuery has plugins for almost any task out there.
+
 ```javascript
 function fadeIn(el) { // Vanilla JavaScript
   el.style.opacity = 0;
