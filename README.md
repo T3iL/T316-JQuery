@@ -50,6 +50,12 @@ T31601 - Przygotuj odpowiedniki funkcji (fadeToggle, slideUp, toggleClass) pocho
 T31602 - Przygotuj uproszczoną alternatywę dla JQuery udostępniającą uniwersalny selektor "$" pozwalający na wykonanie nastepującej sekwencji (bez dołączania jquery).
 
     $('#test').style.color = 'red';
+    
+T31603 - Przygotuj w Vaniolla Javascript odpowiednik Accordion z JqueryUI albo z Bootstrapa 
+
+          https://jqueryui.com/accordion/
+
+          https://getbootstrap.com/docs/5.0/components/accordion/
 
 ```
 
