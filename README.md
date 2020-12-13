@@ -12,12 +12,12 @@ The purpose of jQuery is to make it much easier to use JavaScript on your websit
 
 The jQuery library contains the following features:
 
--HTML/DOM manipulation
--CSS manipulation
--HTML event methods
--Effects and animations
--AJAX
--Utilities
+- HTML/DOM manipulation
+- CSS manipulation
+- HTML event methods
+- Effects and animations
+- AJAX
+- Utilities
 
 Tip: In addition, jQuery has plugins for almost any task out there.
 
