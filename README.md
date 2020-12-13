@@ -5,6 +5,11 @@
 1. Icons (https://iconify.design/icon-sets/)
 2. JQuery (https://jquery.com/)
 ```
+
+jQuery is a lightweight, "write less, do more", JavaScript library.
+
+The purpose of jQuery is to make it much easier to use JavaScript on your website.
+
 ```javascript
 function fadeIn(el) { // Vanilla JavaScript
   el.style.opacity = 0;
