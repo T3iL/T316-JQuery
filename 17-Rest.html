@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rest API</title>
+</head>
+<body>
+    <div class="container">
+        <ul id="list">
+
+        </ul>
+    </div>
+    <script>
+        const url = 'https://jsonplaceholder.typicode.com/photos';
+
+        fetch(url)
+            .then(response => response.json())
+            .then(data => wypisz(data))
+
+            function wypisz(data){
+                
+                const list = document.querySelector('#list')
+
+                console.log(data);
+
+                data.forEach(elem => {
+                    const newItem = document.createElement('li');
+                    const newImg = document.createElement('img');
+                    newImg.src = elem.thumbnailUrl;
+
+                    newItem.textContent = elem.title;
+                    newItem.appendChild(newImg);
+
+                    list.appendChild(newItem);                    
+                })
+
+            }
+    </script>
+</body>
+</html>
