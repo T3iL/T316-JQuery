@@ -52,7 +52,7 @@ T31602 - Przygotuj uproszczoną alternatywę dla JQuery udostępniającą uniwer
 
     $('#test').style.color = 'red';
     
-T31603 - Przygotuj w Vaniolla Javascript odpowiednik Accordion z JqueryUI albo z Bootstrapa 
+T31603 - Przygotuj w Vanilla Javascript odpowiednik Accordion z JqueryUI albo z Bootstrapa 
 
           https://jqueryui.com/accordion/
 
