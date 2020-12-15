@@ -57,6 +57,10 @@ T31603 - Przygotuj w Vanilla Javascript odpowiednik Accordion z JqueryUI albo z 
           https://jqueryui.com/accordion/
 
           https://getbootstrap.com/docs/5.0/components/accordion/
+          
+ T31604 - Przygotuj w oparciu o API: http://restcountries.eu/ listę krajów wraz z iuch flagami, walutami, językami, kodami)
+ 
+ ZAAWANSOWANA WERSJA - dodaj wyszukliwarkę po nazwie i kodzie.
 
 ```
 
